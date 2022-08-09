@@ -254,7 +254,7 @@ $('#titulo').append(
 )
 
 // 2.2 - Localize uma lista de elementos por class
-let elementWithClass = $(".subtitulo")
+let elementWithClass = [...$(".subtitulo")]
 
 // 2.2.1 - Converta esses elementos em uma lista e exiba de forma individual o seu conteúdo
 console.group('2.2.1 - Element List Class')
@@ -269,7 +269,7 @@ console.groupEnd()
 $(".subtitulo").text("Subtitulo Alterado")
 
 // 2.3 - Localize uma lista de elementos por nome de seletor
-let titles = $("h1")
+let titles = [...$("h1")]
 
 // 2.3.1 - Converta esses elementos em uma lista e exiba de forma individual o seu conteúdo
 console.group('2.3.1 - Element List Selector')
