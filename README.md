@@ -15,9 +15,9 @@ The following technologies were used:
 
 | Task 💻 | Repositories | Test Here |
 |------|---------|---------|
-|🛠️&nbsp; JavaScrip / jQuery|[<div align="center">🗂</div>](./js_jquery/)|[<div align="center">▶️</div>](https://github.com/seiler-emerson/Entra21_JavaScript_Test_2022/tree/main/js_jquery/)|
-|📊&nbsp; CRUD|[<div align="center">🗂</div>](./crud/)|[<div align="center">▶️</div>](https://github.com/seiler-emerson/Entra21_JavaScript_Test_2022/tree/main/crud)|
-|🧑🏻‍💻&nbsp; API|[<div align="center">🗂</div>](./api/)|[<div align="center">▶️</div>](https://github.com/seiler-emerson/Entra21_JavaScript_Test_2022/tree/main/api)|
+|🛠️&nbsp; JavaScrip / jQuery|[<div align="center">🗂</div>](./js_jquery/)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/Entra21_JavaScript_Test_2022/tree/main/js_jquery/)|
+|📊&nbsp; CRUD|[<div align="center">🗂</div>](./crud/)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/Entra21_JavaScript_Test_2022/tree/main/crud)|
+|🧑🏻‍💻&nbsp; API|[<div align="center">🗂</div>](./api/)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/Entra21_JavaScript_Test_2022/tree/main/api)|
 
 ## ▶️&nbsp; Application in operation 
 
